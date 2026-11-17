@@ -1,0 +1,6 @@
+{
+  "name": "Screen Recorder — Native Android Studio Project",
+  "description": "Complete native Android (Kotlin, Jetpack Compose, API 36–37) hardware-accelerated Screen Recorder source project explorer and ZIP exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
